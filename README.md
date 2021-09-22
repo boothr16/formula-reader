@@ -5,5 +5,5 @@ This chemical formula reader was developed for use by high school chemistry stud
 
 Sometime in the near future, this program will also serve to balance chemical equations.
 
-CHANGELOG
-* Clean up this code by making it more modular.
+TODO
+1) Refactor 
