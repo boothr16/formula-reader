@@ -6,4 +6,4 @@ This chemical formula reader was developed for use by high school chemistry stud
 Sometime in the near future, this program will also serve to balance chemical equations.
 
 TODO
-1) Refactor 
+1) Refactor parseFormula() in AtomCounter.cpp for readability/modularity.
